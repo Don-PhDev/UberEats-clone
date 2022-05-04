@@ -1,12 +1,11 @@
-<h1>JWongEats</h1>
+<h1>UberEats clone</h1>
 
-Welcome to JWongEats, an <a href="http://ubereats.com/" target="_blank" rel="noopener noreferrer">
+Welcome to UberEats clone, an <a href="http://ubereats.com/" target="_blank" rel="noopener noreferrer">
 UberEats</a> inspired Full-Stack single-page website, where you can browse and order from restaurants local to Union, New Jersey[^1][^2].
 
 <img src="https://github.com/JonJWong/JWong-Eats/blob/main/app/assets/images/readme-main.png"></img>
 
-<a href="https://jwong-eats.herokuapp.com/#/splash" target="_blank" rel="noopener noreferrer">Live Link</a>
-
+<a href="https://jwong-eats.herokuapp.com/#/splash" target="_blank" rel="noopener noreferrer">Live Demo</a>
 
 <h2 id="table-of-contents">Table of Contents</h2>
 
