@@ -162,3 +162,9 @@ When a user checks out a cart, and a transaction is processed, the current price
 [^1]: Since there did not seem to be a consistent API to scrape menus and menu items from restaurants, all the menu and item seeding was done manually, which resulted in a limited selection (20 restaurants, 10 items each). Some of the restaurants that were brought up by the Maps API are also not available on UberEats, so the images had to be sourced directly from the restaurant, if they had any.
 
 [^2]: Bunny Cafe is an imaginary restaurant based on my household, and our bunny, Kuro!
+
+#
+<h2 id="license-copyright">License & Copyright</h2>
+© 2022 Don Forrest Usbal
+
+Licensed under the [MIT License](LICENSE)
