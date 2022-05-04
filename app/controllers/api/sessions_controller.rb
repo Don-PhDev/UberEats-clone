@@ -7,14 +7,15 @@ class Api::SessionsController < ApplicationController
     )
     if @user
       login!(@user)
-      render 'api/users/show'
+      render "api/users/show"
     else
-      render json: ['Email or Password incorrect.'], status: 401
+      render json: ["Email or Password incorrect."], status: 401
     end
   end
 
   def destroy
     logout!
-    render html: 'static_pages/root'
+    render html: "static_pages/root"
   end
+
 end

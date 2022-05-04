@@ -19,7 +19,7 @@ class Api::TransactionsController < ApplicationController
       if transaction_item.save
         next
       else
-        render json: ['Something went wrong, please try again.'], status: 401
+        render json: ["Something went wrong, please try again."], status: 401
         break
       end
     end
